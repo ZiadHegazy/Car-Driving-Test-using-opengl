@@ -1,0 +1,9 @@
+﻿  OpenGLMeshLoader19 (1).cpp
+D:\Sem7\graphics\Lab 7\Lab7\OpenGLMeshLoader19 - sky\TextureBuilder.h(27,52): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Sem7\graphics\Lab 7\Lab7\OpenGLMeshLoader19 - sky\TextureBuilder.h(28,52): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Sem7\graphics\Lab 7\Lab7\OpenGLMeshLoader19 - sky\OpenGLMeshLoader19 (1).cpp(1789,63): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\Sem7\graphics\Lab 7\Lab7\OpenGLMeshLoader19 - sky\OpenGLMeshLoader19 (1).cpp(1804,63): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+D:\Sem7\graphics\Lab 7\Lab7\OpenGLMeshLoader19 - sky\OpenGLMeshLoader19 (1).cpp(1495): warning C4715: 'Score': not all control paths return a value
+D:\Sem7\graphics\Lab 7\Lab7\OpenGLMeshLoader19 - sky\OpenGLMeshLoader19 (1).cpp(1703): warning C4715: 'CheckCollide': not all control paths return a value
+Assignment2.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  OpenGLMeshLoader.vcxproj -> D:\Sem7\graphics\Lab 7\Lab7\OpenGLMeshLoader19 - sky\Debug\OpenGLMeshLoader19.exe
